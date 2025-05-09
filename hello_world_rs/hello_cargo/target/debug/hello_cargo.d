@@ -1,0 +1,1 @@
+/Users/tatelloyd/Desktop/Software\ Projects/Defense_Tech_Projects/hello_world_rs/hello_cargo/target/debug/hello_cargo: /Users/tatelloyd/Desktop/Software\ Projects/Defense_Tech_Projects/hello_world_rs/hello_cargo/src/main.rs

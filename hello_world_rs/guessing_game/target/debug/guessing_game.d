@@ -1,0 +1,1 @@
+/Users/tatelloyd/Desktop/Software\ Projects/Defense_Tech_Projects/hello_world_rs/guessing_game/target/debug/guessing_game: /Users/tatelloyd/Desktop/Software\ Projects/Defense_Tech_Projects/hello_world_rs/guessing_game/src/main.rs
