@@ -1,0 +1,1 @@
+/Users/tatelloyd/Desktop/Software\ Projects/Defense_Tech_Projects/beginner_projects/variables/target/debug/variables: /Users/tatelloyd/Desktop/Software\ Projects/Defense_Tech_Projects/beginner_projects/variables/src/main.rs
