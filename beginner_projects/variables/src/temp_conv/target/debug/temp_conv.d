@@ -1,0 +1,1 @@
+/Users/tatelloyd/Desktop/Software\ Projects/Defense_Tech_Projects/beginner_projects/variables/src/temp_conv/target/debug/temp_conv: /Users/tatelloyd/Desktop/Software\ Projects/Defense_Tech_Projects/beginner_projects/variables/src/temp_conv/src/main.rs
