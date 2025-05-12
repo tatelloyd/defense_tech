@@ -54,7 +54,7 @@ fn c_to_f(x: f32) -> f32 {
 }
 
 // Function processing value inputs and outputting 
-fn calc_handler(unit: &String, f: &dyn Fn(f32) -> f32) {
+fn calc_handler(unit: &str, f: &dyn Fn(f32) -> f32) {
     loop {
         // Prompt the user for a value
         println!("Value?");
