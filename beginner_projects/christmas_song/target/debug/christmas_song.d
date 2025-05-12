@@ -1,0 +1,1 @@
+/Users/tatelloyd/Desktop/Software\ Projects/Defense_Tech_Projects/beginner_projects/christmas_song/target/debug/christmas_song: /Users/tatelloyd/Desktop/Software\ Projects/Defense_Tech_Projects/beginner_projects/christmas_song/src/main.rs
