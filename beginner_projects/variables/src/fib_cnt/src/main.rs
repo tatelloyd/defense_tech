@@ -41,7 +41,7 @@ fn main() {
         // Loop for getting nth fibonnaci value.
         // Skip the first two iterations since those
         // values don't need to be calculated.
-        for x in 1..index - 1 {
+        for _x in 1..index - 1 {
                 fib_curr += fib_prev;
                 fib_prev = fib_curr - fib_prev;
         }
