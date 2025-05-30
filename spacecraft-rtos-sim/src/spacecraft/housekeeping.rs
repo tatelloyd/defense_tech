@@ -1,11 +1,8 @@
-// Fixed src/spacecraft/housekeeping.rs
-
 use std::time::Instant;
 use std::sync::Mutex;
 use std::sync::OnceLock;
 use crate::rtos::task::TaskResult;
 
-// Use safe static instead of static mut
 static HOUSEKEEPING_CYCLES: OnceLock<Mutex<u32>> = OnceLock::new();
 
 fn get_housekeeping_cycles() -> &'static Mutex<u32> {

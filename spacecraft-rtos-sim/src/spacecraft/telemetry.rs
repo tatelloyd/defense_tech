@@ -1,11 +1,8 @@
-// Fixed src/spacecraft/telemetry.rs
-
 use std::time::Instant;
 use std::sync::Mutex;
 use std::sync::OnceLock;
 use crate::rtos::task::TaskResult;
 
-// Use safe static instead of static mut
 static TELEMETRY_PACKET_COUNT: OnceLock<Mutex<u64>> = OnceLock::new();
 
 fn get_packet_count() -> &'static Mutex<u64> {

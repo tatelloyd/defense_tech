@@ -1,5 +1,3 @@
-// Fixed src/spacecraft/attitude_control.rs
-
 use std::time::{Duration, Instant};
 use std::sync::Mutex;
 use std::sync::OnceLock;

@@ -76,8 +76,6 @@ impl Scheduler {
                  id, priority, period);
     }
     
-     // Here
-     // Fixed section of the run method in scheduler.rs (around lines 85-105)
 
 pub async fn run(&mut self, duration: Duration) {
     let end_time = Instant::now() + duration;
