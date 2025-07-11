@@ -1,0 +1,1 @@
+/Users/tatelloyd/Desktop/Software\ Projects/Defense_Tech_Projects/beginner_projects/minigrep/target/debug/libminigrep.rlib: /Users/tatelloyd/Desktop/Software\ Projects/Defense_Tech_Projects/beginner_projects/minigrep/src/lib.rs
